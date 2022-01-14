@@ -7,7 +7,7 @@ Provides extended API functionality over counterpartyd (such as market informati
 ## Installing kekdaqblockd:
 
 ```
-sudo apt-get install python-pip cython libxml2-dev libxslt1-dev python-dev
+sudo apt-get install python-pip cython libxml2-dev libxslt1-dev python2.7-dev
 
 git clone https://github.com/kekdaq/kekdaqblockd.git
 
