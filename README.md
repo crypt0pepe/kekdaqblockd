@@ -13,7 +13,7 @@ git clone https://github.com/kekdaq/kekdaqblockd.git
 
 cd kekdaqblockd
 
-sudo pip install -r pip-requirements.txt 
+pip install -r pip-requirements.txt 
 ```
 
 ## Running kekdaqblockd:
